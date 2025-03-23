@@ -69,15 +69,15 @@ pip install numpy matplotlib tensorflow scikit-learn
 
 ## Results
 ### Data Visualization
-![Planar Data]![image](https://github.com/user-attachments/assets/cfd0eedf-53fb-4a84-b889-48a94c1b4157)
+![image](https://github.com/user-attachments/assets/cfd0eedf-53fb-4a84-b889-48a94c1b4157)
 
 
 ### Decision Boundary
-![Decision Boundary]![image](https://github.com/user-attachments/assets/57b15ebd-1b97-48a5-bd25-789a31572a98)
+![image](https://github.com/user-attachments/assets/57b15ebd-1b97-48a5-bd25-789a31572a98)
 
 
 ### Training History
-![Training History]![image](https://github.com/user-attachments/assets/fb51faab-f96a-47ec-86bf-bec5180f3dad)
+![image](https://github.com/user-attachments/assets/fb51faab-f96a-47ec-86bf-bec5180f3dad)
 
 
 ### Model Performance
@@ -143,4 +143,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Enjoy exploring the world of neural networks! 
-```
+
