@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+
 # Planar Data Classification with a Neural Network
 
 This repository contains a Python implementation of a neural network with one hidden layer for classifying planar data (non-linearly separable data). The project is designed to help beginners understand the basics of neural networks, including data generation, model building, training, evaluation, and visualization.
@@ -30,7 +30,7 @@ Planar data classification is a classic problem in machine learning where the go
 - **Visualization**: Visualize the decision boundary and training history.
 - **Model Export**: Save the trained model in various formats (H5, SavedModel, TensorFlow.js, TensorFlow Lite).
 
----
+
 
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
