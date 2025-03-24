@@ -136,9 +136,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Connect with Me
-- [YouTube](https://youtube.com/your-channel)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn](https://linkedin.com/in/adityainamdar1)
+
 
 ---
 
